@@ -6,4 +6,4 @@ If you have a Windows computer, you can run a 'main.exe' build of my game by dow
 
 This mini-project was created during July 2020 by Sam Morris.
 
-![image](/uploads/7e6c3ceb0be2a14a2208c95b5373215e/image.png)
+![image](/images/menu.png)
