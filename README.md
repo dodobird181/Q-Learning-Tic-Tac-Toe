@@ -6,4 +6,6 @@ If you have a Windows computer, you can run a 'main.exe' build of my game by dow
 
 This mini-project was created during July 2020 by Sam Morris.
 
-![](images/menu.png)
+<img src="https://github.com/dodobird181/TicTacToe-QLearning/blob/main/images/menu.PNG" width="300" height="300">
+<img src="https://github.com/dodobird181/TicTacToe-QLearning/blob/main/images/tie.PNG" width="300" height="300">
+<img src="https://github.com/dodobird181/TicTacToe-QLearning/blob/main/images/xwins.PNG" width="300" height="300">
