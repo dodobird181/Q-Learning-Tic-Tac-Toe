@@ -16,7 +16,7 @@ Q_learning is a relatively simple algorithm in machine learning, and cannot be u
 Much of my initial success in implementing Q-Learning with Python can be attributed to a handful of Medium articles on the subject. [One article](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542), in particular, was especially helpful when I was first getting started.
 
 ### Screenshots
-If you are curious, this is what the game looks like!
+.
 <img src="https://github.com/dodobird181/TicTacToe-QLearning/blob/main/images/menu.PNG" width="300" height="300">
 
 <img src="https://github.com/dodobird181/TicTacToe-QLearning/blob/main/images/tie.PNG" width="300" height="300">
@@ -25,5 +25,3 @@ If you are curious, this is what the game looks like!
 
 ### Download
 Finally, if you want to try out my Tic-Tac-Toe AI for yourself, feel free to [download](https://github.com/dodobird181/Tic-Tac-Toe/raw/main/build/TicTacToe.zip) a portable version for Windows.
-
-Created by Samuel M. in June, 2020.
