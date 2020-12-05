@@ -6,4 +6,4 @@ If you have a Windows computer, you can run a 'main.exe' build of my game by dow
 
 This mini-project was created during July 2020 by Sam Morris.
 
-![image](/images/menu.png)
+![](images/menu.png)
