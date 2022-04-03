@@ -15,7 +15,7 @@ After learning Python this summer, I wanted to take on a miniature challenge tha
 
 
 ### Improvements
-Q_learning is a relatively simple algorithm in machine learning, and cannot be used on problems with larger state-spaces (for example: Chess, or Connect-Four), because of the exponential increase in computational complexity (Tic-Tac-Toe alone boasts around 18,000 possible board-states). 
+Q_learning is a relatively simple algorithm in machine learning, and cannot be used on problems with larger state-spaces (for example: Chess, or Connect-Four), because of the exponential increase in computational complexity (Tic-Tac-Toe alone boasts a whopping 5,478 legal board-states). 
 
 When I attempted to apply this technique to a connect-four prototype that I built in Python, I immediately noticed poor performance after training for roughly 3-4 hours. I then realized that Connect-Four has a state-space around 4,000,000,000,000 and that my feeble laptop could only train about 2 million games every few hours. This led to the realization that it would take my laptop 900 years to simply *cover* Connect-Four's state-space. Yikes! 
 
@@ -25,4 +25,4 @@ So, something that could potentially be improved in future is the learning model
 Much of my initial success in implementing Q-Learning with Python can be attributed to a handful of Medium articles on the subject. [One article](https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542), in particular, was especially helpful when I was first getting started.
 
 ### Download
-Finally, if you want to try out my Tic-Tac-Toe AI for yourself, feel free to [download](https://github.com/dodobird181/Tic-Tac-Toe/raw/main/build/TicTacToe.zip) a portable version for Windows.
+Finally, if you want to try out my Tic-Tac-Toe AI for yourself, feel free to [download](https://github.com/dodobird181/Tic-Tac-Toe/raw/main/build/TicTacToe.zip) a portable version for Windows 10.
